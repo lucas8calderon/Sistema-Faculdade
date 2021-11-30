@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "S8b7tbIj+ps9ouhl4WwuR2iVVS2sFufUk0c5Ed8r45pxKuFlCsujg4txgjptbQaX6glASCb+QUxLrwrQ/oIFxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucas Calderon\\Documents\\DEV. SISTEMAS C#\\Sistema Faculdade\\Sistema Faculdade\\Sistema Faculdade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas Calderon\\.nuget\\packages\\circularprogressbar\\2.8.0.16\\circularprogressbar.2.8.0.16.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'CircularProgressBar 2.8.0.16' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net5.0-windows7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "CircularProgressBar",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\bin\Debug\net5.0-windows\Sistema Faculdade.exe
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\bin\Debug\net5.0-windows\Sistema Faculdade.deps.json
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\bin\Debug\net5.0-windows\Sistema Faculdade.runtimeconfig.json
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\bin\Debug\net5.0-windows\Sistema Faculdade.runtimeconfig.dev.json
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\bin\Debug\net5.0-windows\Sistema Faculdade.dll
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\bin\Debug\net5.0-windows\ref\Sistema Faculdade.dll
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\bin\Debug\net5.0-windows\Sistema Faculdade.pdb
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema Faculdade.csproj.AssemblyReference.cache
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema_Faculdade.Form1.resources
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema Faculdade.csproj.GenerateResource.cache
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema Faculdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema Faculdade.AssemblyInfoInputs.cache
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema Faculdade.AssemblyInfo.cs
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema Faculdade.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema Faculdade.dll
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\ref\Sistema Faculdade.dll
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema Faculdade.pdb
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema Faculdade.genruntimeconfig.cache
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema_Faculdade.Properties.Resources.resources
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema_Faculdade.Form2.resources
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema_Faculdade.Form3.resources
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema_Faculdade.MeuCurso.resources
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema_Faculdade.HomeForm.resources
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema_Faculdade.AjudaForm.resources
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema_Faculdade.AtividadeForm.resources
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema_Faculdade.AvisosForm.resources
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema_Faculdade.CentralForm.resources
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema_Faculdade.FinanceiroForm.resources
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema_Faculdade.MinhaContaForm.resources
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema_Faculdade.RematriculaForm.resources
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema_Faculdade.SairForm.resources
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\bin\Debug\net5.0-windows\CircularProgressBar.dll
+C:\Users\Lucas Calderon\Documents\DEV. SISTEMAS C#\Sistema Faculdade\Sistema Faculdade\obj\Debug\net5.0-windows\Sistema Faculdade.csproj.CopyComplete

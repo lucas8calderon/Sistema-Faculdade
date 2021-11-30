@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AjudaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AtividadeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AvisosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CentralForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FinanceiroForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MeuCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MinhaContaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RematriculaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SairForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
